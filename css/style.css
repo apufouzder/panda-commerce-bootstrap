@@ -1,0 +1,48 @@
+
+.pandda-slide{
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+.categories img{
+    width: 100px;
+}
+.categories-block{
+    border-radius: 10px;
+}
+
+.pandda-card{
+    border: none;
+}
+.pandda-card-footer{
+    background-color: white;
+    border: none;
+}
+
+.buy-now-btn{
+    background: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: white;
+    padding: 10px 25px;
+    border: none;
+}
+
+.pandda-input{
+    width: 263px;
+    float: left;
+    margin-right: 10px;
+    height: 44px;
+}
+
+.cat1{
+    background-color: orange;
+}
+.cat2{
+    background-color: orchid;
+}
+.cat3{
+    background-color: blue;
+}
+
+.custom-footer{
+    padding: 19px 0;
+    border: 1px solid #fde2df;
+}
